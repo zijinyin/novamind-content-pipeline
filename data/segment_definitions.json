@@ -1,23 +1,23 @@
 [
   {
     "persona": "Creative Agency Owner",
-    "segment_name": "Agency Owners - Growth Focused",
+    "segment_name": "创意机构老板 - 增长导向",
     "hubspot_list_id": "list-201",
     "segment_logic": "Contacts where persona = Creative Agency Owner and lifecycle_stage in subscriber, lead",
-    "primary_goal": "Show how automation improves delivery capacity, margin, and client retention"
+    "primary_goal": "展示自动化如何改善交付能力、利润率和客户保留"
   },
   {
     "persona": "Operations Manager at a Small Agency",
-    "segment_name": "Agency Ops - Workflow Efficiency",
+    "segment_name": "机构运营 - 工作流效率",
     "hubspot_list_id": "list-202",
     "segment_logic": "Contacts where persona = Operations Manager at a Small Agency and lifecycle_stage in subscriber, lead",
-    "primary_goal": "Show how structured workflows reduce handoff friction and reporting overhead"
+    "primary_goal": "展示结构化工作流如何减少交接摩擦和报告开销"
   },
   {
     "persona": "Freelance Creative Professional",
-    "segment_name": "Freelance Creatives - Productivity",
+    "segment_name": "自由创意工作者 - 生产力",
     "hubspot_list_id": "list-203",
     "segment_logic": "Contacts where persona = Freelance Creative Professional and lifecycle_stage in subscriber, lead",
-    "primary_goal": "Show how automation helps solo practitioners repurpose work faster without losing quality"
+    "primary_goal": "展示自动化如何帮助独立创意工作者更快地重复利用工作，而不失质量"
   }
 ]
