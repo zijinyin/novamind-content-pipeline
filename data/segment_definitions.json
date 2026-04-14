@@ -1,0 +1,23 @@
+[
+  {
+    "persona": "Creative Agency Owner",
+    "segment_name": "Agency Owners - Growth Focused",
+    "hubspot_list_id": "list-201",
+    "segment_logic": "Contacts where persona = Creative Agency Owner and lifecycle_stage in subscriber, lead",
+    "primary_goal": "Show how automation improves delivery capacity, margin, and client retention"
+  },
+  {
+    "persona": "Operations Manager at a Small Agency",
+    "segment_name": "Agency Ops - Workflow Efficiency",
+    "hubspot_list_id": "list-202",
+    "segment_logic": "Contacts where persona = Operations Manager at a Small Agency and lifecycle_stage in subscriber, lead",
+    "primary_goal": "Show how structured workflows reduce handoff friction and reporting overhead"
+  },
+  {
+    "persona": "Freelance Creative Professional",
+    "segment_name": "Freelance Creatives - Productivity",
+    "hubspot_list_id": "list-203",
+    "segment_logic": "Contacts where persona = Freelance Creative Professional and lifecycle_stage in subscriber, lead",
+    "primary_goal": "Show how automation helps solo practitioners repurpose work faster without losing quality"
+  }
+]
